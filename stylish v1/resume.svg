@@ -26,9 +26,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:lockguides="false"
-     inkscape:zoom="0.75455245"
-     inkscape:cx="309.45496"
-     inkscape:cy="343.24983"
+     inkscape:zoom="1.5091049"
+     inkscape:cx="436.35138"
+     inkscape:cy="446.62237"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -59,7 +59,12 @@
        visible="false"
        empspacing="18"
        enabled="true" /></sodipodi:namedview><defs
-     id="defs2"><inkscape:path-effect
+     id="defs2"><rect
+       x="15.903467"
+       y="261.74456"
+       width="762.04113"
+       height="288.25034"
+       id="rect3005" /><inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect3474"
        is_visible="true"
@@ -2538,7 +2543,154 @@
            id="tspan13043"
            style="fill:#333333;stroke-width:0.264583"
            x="4.6899414"
-           y="22.427759">About Me</tspan></text></g><g
+           y="22.427759">About Me</tspan></text><text
+         xml:space="preserve"
+         style="font-size:2.46945px;white-space:pre;inline-size:202.038;display:inline;fill:#999999;stroke-width:0.264583"
+         x="4.6899414"
+         y="27.412256"
+         id="text1470"
+         inkscape:label="Section_title"><tspan
+           x="4.6899414"
+           y="27.412256"
+           id="tspan2812"><tspan
+             style="fill:#333333"
+             id="tspan2810">Let me help you to screen me faster...
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="30.499069"
+           id="tspan2816"><tspan
+             style="fill:#333333"
+             id="tspan2814">Please look at the sections below and if after looking you think i have not enough experience, please, proceed with the next candidate.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="33.585882"
+           id="tspan2820"><tspan
+             style="fill:#333333"
+             id="tspan2818">
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="36.672693"
+           id="tspan2824"><tspan
+             style="fill:#333333"
+             id="tspan2822">Now that the reader doesn't stop to just scratching the surface, let me present myself.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="39.759504"
+           id="tspan2828"><tspan
+             style="fill:#333333"
+             id="tspan2826">I'm Ruben Viscomi, a language and framework agnostic &quot;Software Engineer&quot; born and raised in Italy.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="42.846315"
+           id="tspan2832"><tspan
+             style="fill:#333333"
+             id="tspan2830">Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay Univeristy fees.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="45.933126"
+           id="tspan2836"><tspan
+             style="fill:#333333"
+             id="tspan2834">I still consider myself lucky, though...
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="49.019937"
+           id="tspan2840"><tspan
+             style="fill:#333333"
+             id="tspan2838">I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="52.106748"
+           id="tspan2844"><tspan
+             style="fill:#333333"
+             id="tspan2842">Already after high school i had 3 years of experience in programming, 4 if i'm considering the foundational year where we used Turbo Pascal (father of Delphi).
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="55.193559"
+           id="tspan2848"><tspan
+             style="fill:#333333"
+             id="tspan2846">From 2018 to 2022 I spent most of my time learning and improving my skills.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="58.28037"
+           id="tspan2852"><tspan
+             style="fill:#333333"
+             id="tspan2850">I got to be honest here, i never really searched for jobs until 2020, but few days after, COVID hit Italy and i basically had to stop right after the first few </tspan></tspan><tspan
+           x="4.6899414"
+           y="61.367181"
+           id="tspan2856"><tspan
+             style="fill:#333333"
+             id="tspan2854">applications.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="64.453992"
+           id="tspan2860"><tspan
+             style="fill:#333333"
+             id="tspan2858">
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="67.540804"
+           id="tspan2864"><tspan
+             style="fill:#333333"
+             id="tspan2862">I'm currently working as an R&amp;D Software Developer at Efficy (in Bruxelles), which is probably the greatest european CRM company.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="70.627618"
+           id="tspan2868"><tspan
+             style="fill:#333333"
+             id="tspan2866">I've had the chance to work on complex topics, thus needing to really understand datastructures and algorithms.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="73.714433"
+           id="tspan2872"><tspan
+             style="fill:#333333"
+             id="tspan2870">I optimized code (because nobody was caring and even though i wasn't asked) also written by seniors and dramatically improved the computation time (in the </tspan></tspan><tspan
+           x="4.6899414"
+           y="76.801248"
+           id="tspan2876"><tspan
+             style="fill:#333333"
+             id="tspan2874">best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="79.888063"
+           id="tspan2880"><tspan
+             style="fill:#333333"
+             id="tspan2878">It's now almost a year that I'm working in this company (and so is my &quot;experience&quot; on paper) and I'm starting to be called whenever they need to optimize code.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="82.974878"
+           id="tspan2884"><tspan
+             style="fill:#333333"
+             id="tspan2882">I want to leave because I'm working at a higher level (almost seniority) than what I'm payed for and what my role is.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="86.061693"
+           id="tspan2888"><tspan
+             style="fill:#333333"
+             id="tspan2886">I never asked for a raise and never will...
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="89.148508"
+           id="tspan2892"><tspan
+             style="fill:#333333"
+             id="tspan2890">In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get rid of the worst ones.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="92.235323"
+           id="tspan2896"><tspan
+             style="fill:#333333"
+             id="tspan2894">I hope you now have a clearer view of who i am as professional.
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="95.322137"
+           id="tspan2900"><tspan
+             style="fill:#333333"
+             id="tspan2898">
+</tspan></tspan><tspan
+           x="4.6899414"
+           y="98.408952"
+           id="tspan2904"><tspan
+             style="fill:#333333"
+             id="tspan2902">Please note that a lot of other technical skills aren't present in the resume becuase I felt it wasn't necessary or implicit.</tspan></tspan></text></g><g
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="Profile_Placeholder"><rect
