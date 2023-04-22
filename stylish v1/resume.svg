@@ -26,15 +26,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:lockguides="false"
-     inkscape:zoom="1.5091049"
-     inkscape:cx="436.35138"
-     inkscape:cy="446.62237"
+     inkscape:zoom="1.1033594"
+     inkscape:cx="417.8149"
+     inkscape:cy="309.05614"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g13047"
+     inkscape:current-layer="g8142"
      showguides="true"><sodipodi:guide
        position="0,297"
        orientation="0,793.70079"
@@ -497,7 +497,8 @@
          id="stop10514" /><stop
          offset="0.8232"
          stop-color="#FF8900"
-         id="stop10516" /></linearGradient></defs><g
+         id="stop10516" /></linearGradient><style
+       id="style2">.cls-1{fill:#b71918;}.cls-2{fill:#fff;}</style></defs><g
      inkscape:label="Resume"
      inkscape:groupmode="layer"
      id="layer1"><rect
@@ -511,7 +512,7 @@
        inkscape:groupmode="layer"
        id="g915"
        inkscape:label="Technical_Skills"
-       transform="translate(0,149.9845)"><g
+       transform="translate(0,151.9845)"><g
          inkscape:groupmode="layer"
          id="layer10"
          inkscape:label="Databases"
@@ -1232,11 +1233,11 @@
                inkscape:label="Angular_Logo">
 	<polygon
    class="st0"
-   points="125,30 31.9,63.2 46.1,186.3 125,230 203.9,186.3 218.1,63.2 "
+   points="31.9,63.2 46.1,186.3 125,230 203.9,186.3 218.1,63.2 125,30 "
    id="polygon7921" />
 	<polygon
    class="st1"
-   points="125,30 125,52.2 125,52.1 125,153.4 125,230 203.9,186.3 218.1,63.2 "
+   points="125,52.2 125,52.1 125,153.4 125,230 203.9,186.3 218.1,63.2 125,30 "
    id="polygon7923" />
 	<path
    class="st2"
@@ -2270,7 +2271,7 @@
 	<polygon
    id="XMLID_2_"
    style="fill:url(#XMLID_3_)"
-   points="60,60 0,60 30.1,29.9 " />
+   points="0,60 30.1,29.9 60,60 " />
 
 		<linearGradient
    id="SVGID_1_"
@@ -2299,7 +2300,7 @@
 	</linearGradient>
 	<polygon
    style="fill:url(#SVGID_1_)"
-   points="0,32.5 0,0 30.1,0 "
+   points="0,0 30.1,0 0,32.5 "
    id="polygon2908" />
 
 		<linearGradient
@@ -2337,7 +2338,7 @@
 	</linearGradient>
 	<polygon
    style="fill:url(#SVGID_2_)"
-   points="60,0 30.1,0 0,31.7 0,60 30.1,29.9 "
+   points="30.1,0 0,31.7 0,60 30.1,29.9 60,0 "
    id="polygon2923" />
 </g></g><g
            inkscape:groupmode="layer"
@@ -2424,13 +2425,13 @@
                id="g1074">
 	<polygon
    fill="#ffffff"
-   points="243.666,166.508 243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 "
+   points="243.666,155.175 232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 "
    id="polygon1072" />
 </g><g
                id="g1078">
 	<polygon
    fill="#ffffff"
-   points="286.166,166.508 286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 "
+   points="286.166,155.175 274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 "
    id="polygon1076" />
 </g></g></g></g><text
          xml:space="preserve"
@@ -2447,7 +2448,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Professional_Experience"
-       transform="translate(0,130)"><g
+       transform="translate(0,132)"><g
          inkscape:groupmode="layer"
          id="layer3"
          inkscape:label="Efficy"
@@ -2457,34 +2458,43 @@
            inkscape:label="Efficy_logo"><path
              class="cls-1"
              d="m 897,321.2 a 67,67 0 0 1 -1,14.1 c -0.9,6.5 -4.6,9.3 -10.3,9.4 H 754.5 c 7.5,23.5 25.3,32.8 45.9,32.8 a 48.4,48.4 0 0 0 29.1,-9.4 c 3.7,-2.8 7.5,-4.7 12.2,-4.7 h 37.5 c 7.5,0 11.2,4.7 7.5,11.3 -15,33.7 -47.8,51.6 -87.2,51.6 -64.7,0 -106.9,-44.9 -106.9,-103.1 0,-58.2 43,-103.2 104.9,-103.2 57.2,-1.9 99.4,42.1 99.5,101.2 z m -59.1,-21.5 c -5.7,-22.5 -23.5,-30 -40.4,-30 -21.5,0 -37.5,10.3 -43.1,30 z"
-             id="path845" /><path
+             id="path845"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 990.7,223.6 h 26.2 c 6.6,0 9.4,3.8 9.4,9.4 v 36.5 c 0,6.6 -3.7,9.4 -9.3,9.4 h -26.3 v 129.4 c 0,6.6 -3.7,9.4 -9.4,9.4 H 942 c -6.5,0 -9.3,-3.8 -9.3,-9.4 V 279.9 h -17 c -6.6,0 -9.4,-3.7 -9.4,-9.3 V 234 c 0,-6.6 3.7,-9.4 9.4,-9.4 h 16.8 c 0,-52.5 27.2,-84.4 85.3,-84.4 6.6,0 9.4,3.7 9.4,10.3 V 187 c 0,6.6 -3.7,9.4 -10.3,9.4 -15.9,-0.9 -26.2,8.5 -26.2,27.2 z"
-             id="path847" /><path
+             id="path847"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 1123.8,223.5 h 26.3 c 6.5,0 9.3,3.8 9.4,9.4 v 36.6 c 0,6.5 -3.8,9.3 -9.4,9.3 h -26.2 v 129.4 c 0,6.6 -3.7,9.4 -9.3,9.4 h -39.4 c -6.6,0 -9.4,-3.8 -9.4,-9.4 V 279.8 h -16.9 c -6.5,0 -9.3,-3.7 -9.3,-9.3 v -36.6 c 0,-6.6 3.8,-9.4 9.4,-9.4 h 16.9 c -0.1,-52.5 27.1,-84.4 85.2,-84.4 6.6,0 9.4,3.7 9.4,10.3 v 36.5 c 0,6.6 -3.8,9.4 -10.4,9.4 -16,-0.9 -26.3,8.5 -26.3,27.2 z"
-             id="path849" /><path
+             id="path849"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="M 1182.1,409.1 V 232.9 c -0.1,-6.6 3.7,-9.4 9.3,-9.4 h 39.4 c 6.6,0 9.4,3.7 9.4,9.3 v 176.3 c 0,6.6 -3.7,9.4 -9.4,9.4 h -39.3 c -5.7,0 -9.4,-2.8 -9.4,-9.4 z"
-             id="path851" /><path
+             id="path851"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 1473.6,355.5 c -12.1,40.3 -50.5,68.5 -96.5,68.5 -59.1,0.1 -104.1,-44.9 -104.1,-103.1 0,-58.2 44,-103.1 104,-103.2 45.9,0 84.4,28.1 96.6,68.4 2.8,6.6 -1.9,11.3 -8.4,11.3 H 1422 c -4.7,0 -8.4,-2.8 -12.2,-6.6 -7.5,-9.3 -18.7,-14.9 -32.8,-14.9 -25.3,0 -45,18.8 -45,45 0,26.2 19.8,45 45.1,45 14,0 26.2,-5.7 32.8,-15 2.8,-4.7 6.5,-7.5 12.2,-7.6 h 43.1 c 7.5,0.9 11.3,5.6 8.4,12.2 z"
-             id="path853" /><path
+             id="path853"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 1624.5,223.2 h 42.2 c 7.5,0 10.3,3.7 8.5,11.2 l -84.3,255.1 c -1.8,5.6 -5.6,7.5 -11.2,7.5 h -42.2 c -7.5,0 -10.3,-3.7 -8.4,-11.2 l 23.4,-70.3 -68.6,-181 c -2.8,-6.5 0.9,-11.2 7.5,-11.2 h 42.2 a 11.2,11.2 0 0 1 11.2,7.4 l 37.6,104.1 31.8,-103.2 c 0.9,-5.6 4.7,-8.4 10.3,-8.4 z"
-             id="path855" /><circle
+             id="path855"
+             style="fill:#4ea933;fill-opacity:1" /><circle
              class="cls-1"
              cx="606.29999"
              cy="322.89999"
              r="26.299999"
              transform="rotate(-80.8,606.13827,322.88163)"
-             id="circle857" /><path
+             id="circle857"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 1182,184.1 v -35.6 c 0,-6.6 3.8,-9.4 9.4,-9.4 h 39.4 c 6.5,0 9.3,3.8 9.3,9.4 v 35.6 c 0,6.6 -3.7,9.4 -9.3,9.4 h -39.4 c -5.6,0 -9.4,-2.8 -9.4,-9.4 z"
-             id="path859" /><path
+             id="path859"
+             style="fill:#4ea933;fill-opacity:1" /><path
              class="cls-1"
              d="m 467.5,209.4 c -16.9,-10.3 -36.5,-16.9 -59,-21.5 a 3.5,3.5 0 0 1 -2.9,-1 V 153.2 A 27.2,27.2 0 0 0 378.4,126 H 359.7 V 89.4 a 4,4 0 0 1 3.7,-3.7 h 17.9 V 53.8 h -17.9 c -19.6,0 -35.6,9.4 -35.6,35.6 V 126 h -9.4 a 27.5,27.5 0 0 0 -25.3,17.8 l -17.8,49.7 a 493.1,493.1 0 0 0 -56.3,16.9 345.1,345.1 0 0 0 -41.2,18.7 l -41.3,-24.4 a 13.2,13.2 0 0 0 -5.6,-1.8 10.4,10.4 0 0 0 -10.3,10.3 v 56.2 c -11.3,12.2 -17.8,24.4 -18.8,36.6 H 65.3 l 7.5,-16.9 c 1.9,-4.7 0,-10.3 -5.7,-14 -7.5,-5.7 -22.5,-6.6 -30,-1.9 -7.5,4.7 -8.4,12.2 -2.8,16.9 l 23.5,22.5 -13.2,28.1 c -3.7,8.4 -1.8,17.8 5.7,24.4 11.2,11.2 34.7,14 44,3.7 7.5,-9.3 6.6,-22.5 -2.8,-30 L 72.8,321 h 30 c 2.8,11.3 8.4,21.6 17.8,31.9 v 56.2 c 0,6.6 4.7,10.4 10.3,10.4 1.9,0 3.8,0 5.6,-1.9 l 41.3,-24.4 a 345,345 0 0 0 41.2,18.8 424.3,424.3 0 0 0 95.7,24.3 h 0.9 a 354.7,354.7 0 0 0 44.1,2.9 290.8,290.8 0 0 0 50.6,-4.7 c 21.6,-4.7 42.2,-11.3 59.1,-21.6 38.4,-22.5 62.8,-60 62.8,-103.1 0,-40.4 -25.3,-77.9 -64.7,-100.4 z m 29.1,103.2 c 0,37.5 -25.3,69.4 -77.8,84.4 -52.5,15 -111.6,11.2 -184.7,-15 -94.8,-34.7 -99.4,-65.7 -99.4,-69.4 v -1.9 c 0,-3.8 4.6,-34.7 99.4,-69.4 23.4,-8.4 45.9,-15 66.5,-18.7 l 21.6,-61.9 h 46.9 v 57.2 a 209.6,209.6 0 0 1 48.7,8.4 c 52.5,15 77.9,46.9 77.9,84.4 v 0.9 c 0.9,0 0.9,1 0.9,1 z"
-             id="path861" /></g><text
+             id="path861"
+             style="fill:#4ea933;fill-opacity:1" /></g><text
            xml:space="preserve"
            style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
            x="29.689941"
@@ -2532,7 +2542,7 @@
        inkscape:groupmode="layer"
        id="g13047"
        inkscape:label="About_Me"
-       transform="matrix(0.99999606,0,0,1,1.9699683e-5,45)"><text
+       transform="matrix(0.99999606,0,0,1,1.9699683e-5,36.984497)"><text
          xml:space="preserve"
          style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
          x="4.6899414"
@@ -2545,156 +2555,122 @@
            x="4.6899414"
            y="22.427759">About Me</tspan></text><text
          xml:space="preserve"
-         style="font-size:2.46945px;white-space:pre;inline-size:202.038;display:inline;fill:#999999;stroke-width:0.264583"
+         style="font-size:2.46945px;white-space:pre;inline-size:200.098;display:inline;fill:#999999;stroke-width:0.264583"
          x="4.6899414"
          y="27.412256"
          id="text1470"
          inkscape:label="Section_title"><tspan
            x="4.6899414"
            y="27.412256"
-           id="tspan2812"><tspan
-             style="fill:#333333"
-             id="tspan2810">Let me help you to screen me faster...
-</tspan></tspan><tspan
+           id="tspan14030">Let me help you to screen me faster...
+</tspan><tspan
            x="4.6899414"
            y="30.499069"
-           id="tspan2816"><tspan
-             style="fill:#333333"
-             id="tspan2814">Please look at the sections below and if after looking you think i have not enough experience, please, proceed with the next candidate.
-</tspan></tspan><tspan
+           id="tspan14032">Please look at the sections below and if after looking you think I don't have enough experience, please, proceed with the next candidate.
+</tspan><tspan
            x="4.6899414"
            y="33.585882"
-           id="tspan2820"><tspan
-             style="fill:#333333"
-             id="tspan2818">
-</tspan></tspan><tspan
+           id="tspan14034">
+</tspan><tspan
            x="4.6899414"
            y="36.672693"
-           id="tspan2824"><tspan
-             style="fill:#333333"
-             id="tspan2822">Now that the reader doesn't stop to just scratching the surface, let me present myself.
-</tspan></tspan><tspan
+           id="tspan14036">Now that the reader doesn't stop to just scratching the surface, let me present myself.
+</tspan><tspan
            x="4.6899414"
            y="39.759504"
-           id="tspan2828"><tspan
-             style="fill:#333333"
-             id="tspan2826">I'm Ruben Viscomi, a language and framework agnostic &quot;Software Engineer&quot; born and raised in Italy.
-</tspan></tspan><tspan
+           id="tspan14038">I'm Ruben Viscomi, a language and framework agnostic &quot;Software Engineer&quot; born and raised in Italy.
+</tspan><tspan
            x="4.6899414"
            y="42.846315"
-           id="tspan2832"><tspan
-             style="fill:#333333"
-             id="tspan2830">Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay Univeristy fees.
-</tspan></tspan><tspan
+           id="tspan14040">
+</tspan><tspan
            x="4.6899414"
            y="45.933126"
-           id="tspan2836"><tspan
-             style="fill:#333333"
-             id="tspan2834">I still consider myself lucky, though...
-</tspan></tspan><tspan
+           id="tspan14042">Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay University fees. I still consider myself lucky, though...
+</tspan><tspan
            x="4.6899414"
            y="49.019937"
-           id="tspan2840"><tspan
-             style="fill:#333333"
-             id="tspan2838">I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
-</tspan></tspan><tspan
+           id="tspan14044">I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
+</tspan><tspan
            x="4.6899414"
            y="52.106748"
-           id="tspan2844"><tspan
-             style="fill:#333333"
-             id="tspan2842">Already after high school i had 3 years of experience in programming, 4 if i'm considering the foundational year where we used Turbo Pascal (father of Delphi).
-</tspan></tspan><tspan
+           id="tspan14046">Already after high school I had 3 years of experience in programming, 4 if I'm considering the foundational year where we used Turbo Pascal (father of Delphi).
+</tspan><tspan
            x="4.6899414"
            y="55.193559"
-           id="tspan2848"><tspan
-             style="fill:#333333"
-             id="tspan2846">From 2018 to 2022 I spent most of my time learning and improving my skills.
-</tspan></tspan><tspan
+           id="tspan14048">
+</tspan><tspan
            x="4.6899414"
            y="58.28037"
-           id="tspan2852"><tspan
-             style="fill:#333333"
-             id="tspan2850">I got to be honest here, i never really searched for jobs until 2020, but few days after, COVID hit Italy and i basically had to stop right after the first few </tspan></tspan><tspan
+           id="tspan14050">From 2018 to 2022 I spent most of my time learning and improving my skills.
+</tspan><tspan
            x="4.6899414"
            y="61.367181"
-           id="tspan2856"><tspan
-             style="fill:#333333"
-             id="tspan2854">applications.
-</tspan></tspan><tspan
+           id="tspan14052">I got to be honest here, I never really searched for jobs until 2020, but few days after, COVID hit Italy and I basically had to stop right after the first few </tspan><tspan
            x="4.6899414"
            y="64.453992"
-           id="tspan2860"><tspan
-             style="fill:#333333"
-             id="tspan2858">
-</tspan></tspan><tspan
+           id="tspan14054">applications.
+</tspan><tspan
            x="4.6899414"
            y="67.540804"
-           id="tspan2864"><tspan
-             style="fill:#333333"
-             id="tspan2862">I'm currently working as an R&amp;D Software Developer at Efficy (in Bruxelles), which is probably the greatest european CRM company.
-</tspan></tspan><tspan
+           id="tspan14056">
+</tspan><tspan
            x="4.6899414"
            y="70.627618"
-           id="tspan2868"><tspan
-             style="fill:#333333"
-             id="tspan2866">I've had the chance to work on complex topics, thus needing to really understand datastructures and algorithms.
-</tspan></tspan><tspan
+           id="tspan14058">I'm currently working as Software Developer (currently in Fullstack) in the R&amp;D department at Efficy (in Brussels), which is probably the greatest european CRM </tspan><tspan
            x="4.6899414"
            y="73.714433"
-           id="tspan2872"><tspan
-             style="fill:#333333"
-             id="tspan2870">I optimized code (because nobody was caring and even though i wasn't asked) also written by seniors and dramatically improved the computation time (in the </tspan></tspan><tspan
+           id="tspan14060">company. I've had the chance to work on complex topics, thus needing to really understand data structures and algorithms.
+</tspan><tspan
            x="4.6899414"
            y="76.801248"
-           id="tspan2876"><tspan
-             style="fill:#333333"
-             id="tspan2874">best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
-</tspan></tspan><tspan
+           id="tspan14062">I optimized code (even though i wasn't asked and because no one did care, even if critical) also written by seniors and dramatically improved the computation </tspan><tspan
            x="4.6899414"
            y="79.888063"
-           id="tspan2880"><tspan
-             style="fill:#333333"
-             id="tspan2878">It's now almost a year that I'm working in this company (and so is my &quot;experience&quot; on paper) and I'm starting to be called whenever they need to optimize code.
-</tspan></tspan><tspan
+           id="tspan14064">time (in the best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
+</tspan><tspan
            x="4.6899414"
            y="82.974878"
-           id="tspan2884"><tspan
-             style="fill:#333333"
-             id="tspan2882">I want to leave because I'm working at a higher level (almost seniority) than what I'm payed for and what my role is.
-</tspan></tspan><tspan
+           id="tspan14066">
+</tspan><tspan
            x="4.6899414"
            y="86.061693"
-           id="tspan2888"><tspan
-             style="fill:#333333"
-             id="tspan2886">I never asked for a raise and never will...
-</tspan></tspan><tspan
+           id="tspan14068">It's now almost a year that I'm working in this company (and so is my &quot;experience&quot; on paper) and I'm starting to be called whenever they need to optimize </tspan><tspan
            x="4.6899414"
            y="89.148508"
-           id="tspan2892"><tspan
-             style="fill:#333333"
-             id="tspan2890">In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get rid of the worst ones.
-</tspan></tspan><tspan
+           id="tspan14070">code. I want to leave because I'm working at a higher level (almost seniority) than what I'm paid for and what my role is.
+</tspan><tspan
            x="4.6899414"
            y="92.235323"
-           id="tspan2896"><tspan
-             style="fill:#333333"
-             id="tspan2894">I hope you now have a clearer view of who i am as professional.
-</tspan></tspan><tspan
+           id="tspan14072">I never asked for a raise and never will...In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get </tspan><tspan
            x="4.6899414"
            y="95.322137"
-           id="tspan2900"><tspan
-             style="fill:#333333"
-             id="tspan2898">
-</tspan></tspan><tspan
+           id="tspan14074">rid of the worst ones.
+</tspan><tspan
            x="4.6899414"
            y="98.408952"
-           id="tspan2904"><tspan
-             style="fill:#333333"
-             id="tspan2902">Please note that a lot of other technical skills aren't present in the resume becuase I felt it wasn't necessary or implicit.</tspan></tspan></text></g><g
+           id="tspan14076">
+</tspan><tspan
+           x="4.6899414"
+           y="101.49577"
+           id="tspan14078">I hope you now have a clearer view of who i am as a professional.
+</tspan><tspan
+           x="4.6899414"
+           y="104.58258"
+           id="tspan14080">
+</tspan><tspan
+           x="4.6899414"
+           y="107.6694"
+           id="tspan14082">Please note that a lot of other technical skills (including blockchain development) aren't present in the resume because I felt it wasn't necessary or implicit.
+</tspan><tspan
+           x="4.6899414"
+           y="110.75621"
+           id="tspan14084">I hope you now have a clearer view of who i am as a professional.</tspan></text></g><g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="Profile_Placeholder"><rect
-         style="fill:none;stroke-width:0.309;stroke:#808080;stroke-opacity:1;stroke-dasharray:0.92699996, 0.30899999;stroke-dashoffset:0"
+       inkscape:label="Profile_Placeholder"
+       transform="matrix(0.86829244,0,0,0.86829244,0.6262158,0.69297632)"><rect
+         style="fill:none;stroke:#808080;stroke-width:0.309;stroke-dasharray:0.927, 0.309;stroke-dashoffset:0;stroke-opacity:1"
          id="rect9689"
          width="40"
          height="40"
@@ -2718,6 +2694,336 @@
            fill="#bf360c"
            points="31,22 23,32 39,32 "
            id="polygon9623" /></g></g><g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="Contact_Info"
+       transform="translate(0,1.9999988)"><g
+         id="g4536"
+         inkscape:label="Github"
+         transform="translate(81.075641)"><path
+           d="m 141.03553,7.3863129 c 0,0.012096 -0.0139,0.021777 -0.0315,0.021777 -0.0199,0.0018 -0.0339,-0.00787 -0.0339,-0.021777 0,-0.012096 0.0139,-0.021777 0.0315,-0.021777 0.0181,-0.0018 0.0339,0.00786 0.0339,0.021777 z m -0.18813,-0.027223 c -0.004,0.012096 0.008,0.026013 0.026,0.029638 0.0158,0.00605 0.0339,0 0.0375,-0.012096 0.004,-0.012096 -0.008,-0.026013 -0.026,-0.031453 -0.0158,-0.00425 -0.0333,0.0018 -0.0375,0.013911 z m 0.26737,-0.010281 c -0.0175,0.00425 -0.0297,0.015727 -0.0278,0.029638 0.002,0.012096 0.0175,0.019962 0.0357,0.015727 0.0175,-0.00425 0.0297,-0.015727 0.0278,-0.027823 -0.002,-0.011491 -0.0181,-0.019357 -0.0357,-0.017542 z m 0.39802,-2.3179748 c -0.839,0 -1.48079,0.6369592 -1.48079,1.4759546 0,0.6708336 0.42222,1.244883 1.0253,1.4469197 0.0774,0.013911 0.10465,-0.033873 0.10465,-0.073193 0,-0.037504 -0.002,-0.244379 -0.002,-0.3714082 0,0 -0.42343,0.090735 -0.51235,-0.18026 0,0 -0.069,-0.1760256 -0.16816,-0.2213931 0,0 -0.13852,-0.094969 0.01,-0.093154 0,0 0.15062,0.012096 0.23349,0.1560642 0.13247,0.2334913 0.35447,0.1663471 0.44097,0.1264236 0.0139,-0.096784 0.0532,-0.1639274 0.0968,-0.2038509 -0.33814,-0.037504 -0.67931,-0.086501 -0.67931,-0.6684138 0,-0.1663477 0.046,-0.2498235 0.14276,-0.3562857 -0.0157,-0.039319 -0.0671,-0.2014316 0.0157,-0.410727 0.12642,-0.039319 0.41738,0.1633228 0.41738,0.1633228 0.12098,-0.033873 0.25103,-0.051416 0.37988,-0.051416 0.12884,0 0.2589,0.017542 0.37987,0.051416 0,0 0.29096,-0.2032458 0.41739,-0.1633228 0.0829,0.2099005 0.0315,0.3714086 0.0158,0.410727 0.0968,0.1070672 0.15606,0.1905431 0.15606,0.3562857 0,0.5837278 -0.35628,0.630305 -0.69442,0.6684138 0.0556,0.04779 0.10283,0.1385219 0.10283,0.2806731 0,0.2038514 -0.002,0.4560941 -0.002,0.505696 0,0.039319 0.0278,0.087106 0.10465,0.073193 0.6049,-0.2008266 1.01502,-0.774876 1.01502,-1.4457096 0,-0.8389954 -0.68051,-1.4759546 -1.51951,-1.4759546 z m -0.89283,2.0862981 c -0.008,0.00605 -0.006,0.019962 0.004,0.031453 0.01,0.00968 0.0236,0.013911 0.0315,0.00605 0.008,-0.00605 0.006,-0.019962 -0.004,-0.031453 -0.01,-0.00968 -0.0236,-0.013911 -0.0315,-0.00605 z m -0.0653,-0.048995 c -0.004,0.00787 0.002,0.017542 0.0139,0.023592 0.01,0.00605 0.0218,0.00425 0.026,-0.00425 0.004,-0.00787 -0.002,-0.017542 -0.0139,-0.023592 -0.0121,-0.00365 -0.0218,-0.0018 -0.026,0.00425 z m 0.19599,0.2153446 c -0.01,0.00787 -0.006,0.026013 0.008,0.037504 0.0139,0.013911 0.0315,0.015727 0.0393,0.00605 0.008,-0.00787 0.004,-0.026013 -0.008,-0.037504 -0.0133,-0.013911 -0.0315,-0.015727 -0.0393,-0.00605 z m -0.069,-0.08892 c -0.01,0.00605 -0.01,0.021777 0,0.035689 0.01,0.013911 0.026,0.019962 0.0339,0.013911 0.01,-0.00787 0.01,-0.023592 0,-0.037504 -0.008,-0.013911 -0.0242,-0.019962 -0.0339,-0.012096 z"
+           id="path4546"
+           style="fill:#4d4d4d;stroke-width:0.006049"
+           transform="translate(-79.075641)"
+           inkscape:label="Contact_Icon" /><text
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+           x="65.674438"
+           y="7.4277587"
+           id="text4534"
+           inkscape:label="Contact_Text"><tspan
+             sodipodi:role="line"
+             id="tspan4532"
+             style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+             x="65.674438"
+             y="7.4277587">https://github.com/ruben-viscomi</tspan></text></g><g
+         id="g3049"
+         inkscape:label="Phone"
+         transform="translate(41.075641)"><path
+           d="m 61.890751,-31.840231 c -0.04511,-0.108979 -0.164056,-0.166984 -0.277723,-0.135931 l -0.515605,0.140618 c -0.101949,0.02813 -0.172844,0.120698 -0.172844,0.226162 0,1.449546 1.175343,2.624884 2.624894,2.624884 0.105465,0 0.198039,-0.0709 0.226163,-0.172844 l 0.140619,-0.515602 c 0.03105,-0.113667 -0.02695,-0.232607 -0.135932,-0.277722 l -0.562477,-0.234364 c -0.0955,-0.03984 -0.206242,-0.01231 -0.271278,0.06796 l -0.236709,0.288854 c -0.412484,-0.195108 -0.746455,-0.529077 -0.941564,-0.941559 l 0.288856,-0.236123 c 0.08027,-0.06562 0.107808,-0.175773 0.06797,-0.271277 l -0.234366,-0.562475 z"
+           id="path845-9"
+           style="fill:#4d4d4d;stroke-width:0.00585915"
+           transform="matrix(0.99999607,0,0,1,1.9699683e-5,36.984498)"
+           inkscape:label="Contact_Icon" /><text
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+           x="65.674438"
+           y="7.4277587"
+           id="text331-8"
+           inkscape:label="Contact_Text"><tspan
+             sodipodi:role="line"
+             id="tspan329-3"
+             style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+             x="65.674438"
+             y="7.4277587">+39 392 244 7315</tspan></text></g><g
+         id="g3727"
+         inkscape:label="Email"
+         transform="translate(-10.924359)"><path
+           d="m 50.262499,5.4166666 c -0.155273,0 -0.28125,0.125977 -0.28125,0.28125 0,0.08848 0.0416,0.17168 0.1125,0.225 l 1.275,0.95625 c 0.0668,0.0498 0.158203,0.0498 0.225,0 l 1.275,-0.95625 c 0.0709,-0.05332 0.1125,-0.136523 0.1125,-0.225 0,-0.155273 -0.125977,-0.28125 -0.28125,-0.28125 z m -0.28125,0.65625 v 1.21875 c 0,0.206836 0.168164,0.375 0.375,0.375 h 2.25 c 0.206836,0 0.375,-0.168164 0.375,-0.375 v -1.21875 l -1.275,0.95625 c -0.133594,0.100195 -0.316406,0.100195 -0.45,0 z"
+           id="path3847"
+           style="fill:#4d4d4d;stroke-width:0.00585937"
+           transform="translate(10.924359)"
+           inkscape:label="Contact_Icon" /><text
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+           x="65.674438"
+           y="7.4277587"
+           id="text3725"
+           inkscape:label="Contact_Text"><tspan
+             sodipodi:role="line"
+             id="tspan3723"
+             style="font-size:3.175px;fill:#999999;stroke-width:0.264583"
+             x="65.674438"
+             y="7.4277587">ruben.viscomi@gmail.com</tspan></text></g></g><g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="Personal_Info"
+       transform="translate(2.3088945)"><text
+         xml:space="preserve"
+         style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+         x="42.815025"
+         y="19.427752"
+         id="text13045-6"
+         inkscape:label="Section_title"><tspan
+           sodipodi:role="line"
+           id="tspan13043-4"
+           style="fill:#333333;stroke-width:0.264582"
+           x="42.815025"
+           y="19.427752">Personal Info</tspan></text><text
+         xml:space="preserve"
+         style="font-size:2.46944px;fill:#808080;stroke-width:0.264582"
+         x="42.552441"
+         y="26.876196"
+         id="text13045-6-9"
+         inkscape:label="Info"><tspan
+           sodipodi:role="line"
+           id="tspan13043-4-3"
+           style="font-size:2.46944px;fill:#4d4d4d;stroke-width:0.264582"
+           x="42.552441"
+           y="26.876196">Nationality:  <tspan
+   style="fill:#808080"
+   id="tspan7427">Italian</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.46944px;fill:#4d4d4d;stroke-width:0.264582"
+           x="42.552441"
+           y="29.962996"
+           id="tspan7429"></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.46944px;fill:#4d4d4d;stroke-width:0.264582"
+           x="42.552441"
+           y="33.049797"
+           id="tspan12618">Current City:  <tspan
+   style="fill:#808080"
+   id="tspan7431">Bruxelles</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.46944px;fill:#4d4d4d;stroke-width:0.264582"
+           x="42.552441"
+           y="36.136597"
+           id="tspan7433"></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.46944px;fill:#4d4d4d;stroke-width:0.264582"
+           x="42.552441"
+           y="39.223396"
+           id="tspan12621">Birth Date:  <tspan
+   style="fill:#808080"
+   id="tspan7435">30/05/1998</tspan></tspan></text></g><g
+       inkscape:groupmode="layer"
+       id="g8142"
+       inkscape:label="Education"
+       transform="translate(44.183812)"><g
+         inkscape:groupmode="layer"
+         id="g9744"
+         inkscape:label="ITT_Malafarina"
+         transform="translate(0,11.802333)"><g
+           inkscape:label="Layer 1"
+           id="layer1-5"
+           style="display:inline"
+           transform="matrix(0.01807227,0,0,0.01807227,46.412434,20.317529)"><path
+             id="rect354-8-2"
+             style="fill:#ff8800;fill-opacity:1;stroke:#666666;stroke-width:0.441988;stroke-linejoin:round"
+             d="m 374.2207,85.220703 v 64.988277 h -50.68554 v 49.95899 H 374.2207 V 319.7793 h 49.5586 V 85.220703 Z"
+             inkscape:label="T" /><path
+             id="rect354-8"
+             style="fill:#ff8800;fill-opacity:1;stroke:#666666;stroke-width:0.441988;stroke-linejoin:round"
+             d="m 233.2207,85.220703 v 64.976567 h -50.69726 v 49.98242 H 233.2207 V 319.7793 h 49.5586 V 85.220703 Z"
+             inkscape:label="T" /><g
+             id="g1629"
+             inkscape:label="I"><path
+               id="path1636"
+               style="display:inline;fill:#ff8800;fill-opacity:1;stroke:#666666;stroke-width:0.377953;stroke-linejoin:round"
+               d="m 93.410156,337.24805 a 165.90601,165.90601 0 0 0 122.779294,143.25 v -52.81641 a 115.69672,115.69672 0 0 1 -72.44726,-90.43359 z"
+               inkscape:label="line final" /><rect
+               style="fill:#ff8800;fill-opacity:1;stroke:#666666;stroke-width:0.376112;stroke-linejoin:round"
+               id="rect354"
+               width="49.623886"
+               height="169.62389"
+               x="92.188057"
+               y="150.18805"
+               inkscape:label="line" /><circle
+               style="fill:#ff8800;fill-opacity:1;stroke:#666666;stroke-width:0.363762;stroke-linejoin:round"
+               id="path935"
+               cx="117"
+               cy="110"
+               r="24.818119"
+               inkscape:label="dot" /></g></g><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="57.827522"
+           y="25.412249"
+           id="text9726"
+           inkscape:label="Entity"><tspan
+             sodipodi:role="line"
+             id="tspan9724"
+             style="fill:#333333;stroke-width:0.264582"
+             x="57.827522"
+             y="25.412249">ITT Malafarina</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="85.815025"
+           y="25.598282"
+           id="text9730"
+           inkscape:label="From"><tspan
+             sodipodi:role="line"
+             id="tspan9728"
+             style="fill:#808080;stroke-width:0.264582"
+             x="85.815025"
+             y="25.598282">From</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="97.849121"
+           y="25.598282"
+           id="text9734"
+           inkscape:label="From_Data"><tspan
+             sodipodi:role="line"
+             id="tspan9732"
+             style="fill:#333333;stroke-width:0.264582"
+             x="97.849121"
+             y="25.598282">2012</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="109.81503"
+           y="25.598282"
+           id="text9738"
+           inkscape:label="To"><tspan
+             sodipodi:role="line"
+             id="tspan9736"
+             style="fill:#808080;stroke-width:0.264582"
+             x="109.81503"
+             y="25.598282">to</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="116.87548"
+           y="25.598282"
+           id="text9742"
+           inkscape:label="To_Data"><tspan
+             sodipodi:role="line"
+             id="tspan9740"
+             style="fill:#333333;stroke-width:0.264582"
+             x="116.87548"
+             y="25.598282">2017</tspan></text></g><g
+         inkscape:groupmode="layer"
+         id="layer14"
+         inkscape:label="UNICAL"
+         transform="translate(0,2.8023327)"><g
+           id="layer1-1"
+           inkscape:label="UNICAL_Logo"
+           transform="matrix(0.17942584,0,0,0.17942584,48.125083,22.167105)"><rect
+             class="cls-2"
+             x="0"
+             y="18.170334"
+             width="21.6"
+             height="3.5999999"
+             id="rect10"
+             style="fill:#b71918;fill-opacity:1" /><rect
+             class="cls-2"
+             x="0"
+             y="13.670334"
+             width="21.6"
+             height="3.5999999"
+             id="rect12"
+             style="fill:#b71918;fill-opacity:1" /><rect
+             class="cls-2"
+             x="0"
+             y="9.1703339"
+             width="21.6"
+             height="3.5999999"
+             id="rect14"
+             style="fill:#b71918;fill-opacity:1" /><rect
+             class="cls-2"
+             x="0"
+             y="4.6703339"
+             width="21.6"
+             height="3.5999999"
+             id="rect16"
+             style="fill:#b71918;fill-opacity:1" /><rect
+             class="cls-2"
+             x="0"
+             y="0.17033407"
+             width="21.6"
+             height="3.5999999"
+             id="rect18"
+             style="fill:#b71918;fill-opacity:1" /><rect
+             style="fill:#d3d2cf;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linejoin:round"
+             id="rect958"
+             width="11.16"
+             height="4"
+             x="22.279999"
+             y="4.4403343" /><rect
+             style="fill:#d3d2cf;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linejoin:round"
+             id="rect958-5"
+             width="11.16"
+             height="3.999999"
+             x="22.279999"
+             y="8.9553347" /><path
+             id="rect2642"
+             style="display:inline;fill:#383838;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linejoin:round"
+             d="m 22.279297,13.470703 v 8.699219 l 8.701172,-8.699219 z" /></g><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="57.827522"
+           y="25.412249"
+           id="text8126-7"
+           inkscape:label="Entity"><tspan
+             sodipodi:role="line"
+             id="tspan8124-0"
+             style="fill:#333333;stroke-width:0.264582"
+             x="57.827522"
+             y="25.412249">Università della Calabria</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="100.81503"
+           y="25.598282"
+           id="text8126-7-6"
+           inkscape:label="From"><tspan
+             sodipodi:role="line"
+             id="tspan8124-0-4"
+             style="fill:#808080;stroke-width:0.264582"
+             x="100.81503"
+             y="25.598282">From</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="112.84913"
+           y="25.598282"
+           id="text8126-7-9"
+           inkscape:label="From_Data"><tspan
+             sodipodi:role="line"
+             id="tspan8124-0-40"
+             style="fill:#333333;stroke-width:0.264582"
+             x="112.84913"
+             y="25.598282">2017</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="124.81503"
+           y="25.598282"
+           id="text8268"
+           inkscape:label="To"><tspan
+             sodipodi:role="line"
+             id="tspan8266"
+             style="fill:#808080;stroke-width:0.264582"
+             x="124.81503"
+             y="25.598282">to</tspan></text><text
+           xml:space="preserve"
+           style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+           x="131.87549"
+           y="25.598282"
+           id="text8272"
+           inkscape:label="To_Data"><tspan
+             sodipodi:role="line"
+             id="tspan8270"
+             style="fill:#333333;stroke-width:0.264582"
+             x="131.87549"
+             y="25.598282">2018</tspan></text></g><text
+         xml:space="preserve"
+         style="font-size:3.17499px;fill:#999999;stroke-width:0.264582"
+         x="47.815025"
+         y="19.427752"
+         id="text8126"
+         inkscape:label="Section_title"><tspan
+           sodipodi:role="line"
+           id="tspan8124"
+           style="fill:#333333;stroke-width:0.264582"
+           x="47.815025"
+           y="19.427752">Education</tspan></text></g><g
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="Name"><text

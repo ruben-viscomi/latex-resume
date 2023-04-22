@@ -1,13 +1,23 @@
-Let's help HR screening me faster... Please look at the sections below and if after looking you think i have not enough experience, please, proceed with the next candidate.
+Let me help you to screen me faster...
+Please look at the sections below and if after looking you think I don't have enough experience, please, proceed with the next candidate.
 
 Now that the reader doesn't stop to just scratching the surface, let me present myself.
-I'm Ruben Viscomi, a language and framework agnostic "Software Engineer".
-Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay Univeristy fees. I still consider myself lucky, though... I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
-Already after high school i had 3 years of experience in programming, 4 if i'm considering the foundational year where we used Turbo Pascal (father of Delphi).
-From 2018 to 2022 I spent most of my time learning and improving my skills.
-I got to be honest here, i never really searched for jobs until 2020, but few days after, COVID hit Italy and i basically had to stop right after the first few applications.
-I'm currently working as an R&D Software Developer at Efficy (in Bruxelles), which is probably the greatest european CRM company. I've had the chance to work on complex topics, thus needing to really understand datastructures and algorithms. I optimized code (because nobody was caring and even though i wasn't asked) also written by seniors and dramatically improved the computation time (in the best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds). It's now almost a year that I'm working in this company (and so is my "experience" on paper) and I'm starting to be called whenever they need to optimize code.
-I want to leave because I'm working at a higher level (almost seniority) than what I'm payed for and what my role is. I never asked for a raise and never will, becuase salary adjustments are, in my opinion, a tool that companies must use to keep their best employees and potentially get rid of the worst ones.
-I hope you now have a clearer view of who i am as professional.
+I'm Ruben Viscomi, a language and framework agnostic "Software Engineer" born and raised in Italy.
 
-Please note that a lot of other technical skills aren't present in the resume becuase I felt it wasn't necessary or implicit.
+Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay University fees. I still consider myself lucky, though...
+I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
+Already after high school I had 3 years of experience in programming, 4 if I'm considering the foundational year where we used Turbo Pascal (father of Delphi).
+
+From 2018 to 2022 I spent most of my time learning and improving my skills.
+I got to be honest here, I never really searched for jobs until 2020, but few days after, COVID hit Italy and I basically had to stop right after the first few applications.
+
+I'm currently working as Software Developer (currently in Fullstack) in the R&D department at Efficy (in Brussels), which is probably the greatest european CRM company. I've had the chance to work on complex topics, thus needing to really understand data structures and algorithms.
+I optimized code (even though i wasn't asked and because no one did care, even if critical) also written by seniors and dramatically improved the computation time (in the best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
+
+It's now almost a year that I'm working in this company (and so is my "experience" on paper) and I'm starting to be called whenever they need to optimize code. I want to leave because I'm working at a higher level (almost seniority) than what I'm paid for and what my role is.
+I never asked for a raise and never will...In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get rid of the worst ones.
+
+I hope you now have a clearer view of who i am as a professional.
+
+Please note that a lot of other technical skills (including blockchain development) aren't present in the resume because I felt it wasn't necessary or implicit.
+I hope you now have a clearer view of who i am as a professional.
