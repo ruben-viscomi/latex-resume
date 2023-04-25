@@ -29,15 +29,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:lockguides="false"
-     inkscape:zoom="0.78019293"
-     inkscape:cx="249.29731"
-     inkscape:cy="526.79278"
+     inkscape:zoom="1.1033594"
+     inkscape:cx="362.98235"
+     inkscape:cy="289.11703"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g13047"
+     inkscape:current-layer="layer3"
      showguides="true"><sodipodi:guide
        position="0,297"
        orientation="0,793.70079"
@@ -2451,7 +2451,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Professional_Experience"
-       transform="translate(0,138)"><g
+       transform="matrix(0.99999606,0,0,1,1.9699683e-5,142)"><g
          inkscape:groupmode="layer"
          id="layer3"
          inkscape:label="Efficy"
@@ -2519,7 +2519,7 @@
              id="tspan650-7-0"
              style="fill:#999999;stroke-width:0.264583"
              x="54.689941"
-             y="28.927759">From</tspan></text><text
+             y="28.927759">Since</tspan></text><text
            xml:space="preserve"
            style="font-size:3.175px;fill:#333333;stroke-width:0.264583"
            x="67.689941"
@@ -2565,120 +2565,126 @@
          inkscape:label="Section_title"><tspan
            x="4.6899414"
            y="27.412256"
-           id="tspan4600">Let me help you to screen me faster...
+           id="tspan5314">Let me help you to screen me faster...
 </tspan><tspan
            x="4.6899414"
            y="30.499069"
-           id="tspan4602">Please look at the sections below and if after looking you think I don't have enough experience, please, proceed with the next candidate.
+           id="tspan5316">Please look at the sections below and if after looking you think I don't have enough experience, please, proceed with the next candidate.
 </tspan><tspan
            x="4.6899414"
            y="33.585882"
-           id="tspan4604">
+           id="tspan5318">
 </tspan><tspan
            x="4.6899414"
            y="36.672693"
-           id="tspan4606">Now that the reader doesn't stop to just scratching the surface, let me present myself.
+           id="tspan5320">Now that the reader doesn't stop to just scratching the surface, let me present myself.
 </tspan><tspan
            x="4.6899414"
            y="39.759504"
-           id="tspan4608">I'm Ruben Viscomi, a language and framework agnostic &quot;Software Engineer&quot; born and raised in Italy.
+           id="tspan5322">I'm Ruben Viscomi, a language and framework agnostic &quot;Software Engineer&quot; born and raised in Italy.
 </tspan><tspan
            x="4.6899414"
            y="42.846315"
-           id="tspan4610">
+           id="tspan5324">
 </tspan><tspan
            x="4.6899414"
            y="45.933126"
-           id="tspan4612">Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay University fees. I still consider myself lucky, though...
+           id="tspan5326">Education-wise, I attended just 6 months of Computer Engineering becuase I wasn't able to pay University fees. I still consider myself lucky, though...
 </tspan><tspan
            x="4.6899414"
            y="49.019937"
-           id="tspan4614">I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
+           id="tspan5328">I attended an experimental high school which taught me basically most of the knowledge of a Computer Engineering course.
 </tspan><tspan
            x="4.6899414"
            y="52.106748"
-           id="tspan4616">Already after high school I had 3 years of experience in programming, 4 if I'm considering the foundational year where we used Turbo Pascal (father of Delphi).
+           id="tspan5330">Already after high school I had 3 years of experience in programming, 4 if I'm considering the foundational year where we used Turbo Pascal (father of Delphi).
 </tspan><tspan
            x="4.6899414"
            y="55.193559"
-           id="tspan4618">
+           id="tspan5332">
 </tspan><tspan
            x="4.6899414"
            y="58.28037"
-           id="tspan4620">From 2018 to 2022 I spent most of my time learning and improving my skills.
+           id="tspan5334">From 2018 to 2022 I spent most of my time learning and improving my skills.
 </tspan><tspan
            x="4.6899414"
            y="61.367181"
-           id="tspan4622">I got to be honest here, I never really searched for jobs until 2020, but few days after, COVID hit Italy and I basically had to stop right after the first few </tspan><tspan
+           id="tspan5336">I got to be honest here, I never really searched for jobs until 2020, but few days after, COVID hit Italy and I basically had to stop right after the first few </tspan><tspan
            x="4.6899414"
            y="64.453992"
-           id="tspan4624">applications.
+           id="tspan5338">applications.
 </tspan><tspan
            x="4.6899414"
            y="67.540804"
-           id="tspan4626">
+           id="tspan5340">
 </tspan><tspan
            x="4.6899414"
            y="70.627618"
-           id="tspan4628">I'm currently working as Software Developer (currently in Fullstack) in the R&amp;D department at Efficy (in Brussels), which is probably the greatest european CRM </tspan><tspan
+           id="tspan5342">I'm currently working as Software Developer (currently in Fullstack) in the R&amp;D department at Efficy (in Brussels), which is probably the greatest european CRM </tspan><tspan
            x="4.6899414"
            y="73.714433"
-           id="tspan4630">company. I've had the chance to work on complex topics, thus needing to really understand data structures and algorithms.
+           id="tspan5344">company. I've had the chance to work on complex topics, thus needing to really understand data structures and algorithms.
 </tspan><tspan
            x="4.6899414"
            y="76.801248"
-           id="tspan4632">I optimized code (even though i wasn't asked and because no one did care, even if critical) also written by seniors and dramatically improved the computation </tspan><tspan
+           id="tspan5346">I optimized code (even though i wasn't asked and because no one did care, even if critical) also written by seniors and dramatically improved the computation </tspan><tspan
            x="4.6899414"
            y="79.888063"
-           id="tspan4634">time (in the best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
+           id="tspan5348">time (in the best case i reduced the execution of a critically important function with the same parameters from roughly 40 seconds to roughly 0.2 seconds).
 </tspan><tspan
            x="4.6899414"
            y="82.974878"
-           id="tspan4636">
+           id="tspan5350">
 </tspan><tspan
            x="4.6899414"
            y="86.061693"
-           id="tspan4638">It's now almost a year that I'm working in this company (and so is my &quot;experience&quot; on paper) and I'm starting to be called whenever they need to optimize </tspan><tspan
+           id="tspan5352">It's now almost a year that I'm working in this company (and so is my &quot;experience&quot; on paper) and I'm starting to be called whenever they need to optimize </tspan><tspan
            x="4.6899414"
            y="89.148508"
-           id="tspan4640">code. I want to leave because I'm working at a higher level (almost seniority) than what I'm paid for and what my role is.
+           id="tspan5354">code. I want to leave because I'm working at a higher level (almost seniority) than what I'm paid for and what my role is.
 </tspan><tspan
            x="4.6899414"
            y="92.235323"
-           id="tspan4642">I never asked for a raise and never will...In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get </tspan><tspan
+           id="tspan5356">I never asked for a raise and never will...In my opinion salary adjustments are a tool that companies must use to keep their best employees and potentially get </tspan><tspan
            x="4.6899414"
            y="95.322137"
-           id="tspan4644">rid of the worst ones.
+           id="tspan5358">rid of the worst ones.
 </tspan><tspan
            x="4.6899414"
            y="98.408952"
-           id="tspan4646">
+           id="tspan5360">
 </tspan><tspan
            x="4.6899414"
            y="101.49577"
-           id="tspan4648">I hope you now have a clearer view of who i am as a professional.
+           id="tspan5362">I hope you now have a clearer view of who i am as a professional.
 </tspan><tspan
            x="4.6899414"
            y="104.58258"
-           id="tspan4650">
+           id="tspan5366">You might want to take a look at my LinkedIn articles <tspan
+   style="fill:#4d4d4d"
+   id="tspan5364">https://www.linkedin.com/in/ruben-viscomi-640856197/</tspan>
 </tspan><tspan
            x="4.6899414"
            y="107.6694"
-           id="tspan4652">Please note that a lot of other technical skills (including blockchain development) aren't present in the resume because I felt it wasn't necessary or implicit.
+           id="tspan5368">
 </tspan><tspan
            x="4.6899414"
            y="110.75621"
-           id="tspan4654">I hope you now have a clearer view of who i am as a professional.
+           id="tspan5370">Please note that a lot of other technical skills (including blockchain development) aren't present in the resume because I felt it wasn't necessary or implicit.
 </tspan><tspan
            x="4.6899414"
            y="113.84303"
-           id="tspan4656">
+           id="tspan5372">I hope you now have a clearer view of who i am as a professional.
 </tspan><tspan
            x="4.6899414"
            y="116.92984"
-           id="tspan4660">Check <tspan
+           id="tspan5374">
+</tspan><tspan
+           x="4.6899414"
+           y="120.01666"
+           id="tspan5378">Check <tspan
    style="fill:#4d4d4d"
-   id="tspan4658">https://mega.nz/folder/WTAzjSqI#pQGZ9iil8u-W7UD6XhB09g</tspan> for proofs.</tspan></text></g><g
+   id="tspan5376">https://mega.nz/folder/WTAzjSqI#pQGZ9iil8u-W7UD6XhB09g</tspan> for proofs.</tspan></text></g><g
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="Profile_Placeholder"
